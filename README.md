@@ -1,7 +1,6 @@
 # CodeCare AI
 A medical ai agent that helps automating the process of hospitals / insurance workflow 
 
-`Update` We secured Runner-up award in [GenAi Agent Hackathon Cairo 2025](https://github.com/stakpak/genai-agent-hackathon-cairo-2025) organized  by [Stackpak](https://github.com/stakpak)
 __________________________________________
 ## Features
 
@@ -49,7 +48,7 @@ __________________________________________
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/CodeCare-AI.git
+git clone https://github.com/Sonalsinghh05/CodeCare-AI.git
 cd CodeCare-AI
 ```
 
