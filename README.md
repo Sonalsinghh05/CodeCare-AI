@@ -115,17 +115,6 @@ python app.py
 
 See [requirements.txt](requirements.txt) for full list of dependencies.
 
-## Meet the Team
-
-| ![Team](Team.jpg) |
-|--------------------|
-
-<div align="center">
-
-| [Mohamed Abdallah](https://github.com/mohamedabdallah20) | [Mahmoud Rabea](https://github.com/MahmoudRabea13) | [Mostafa Mansour](mailto:mostafa.mansour97@hotmail.com) | [Ahmed Mansour](https://github.com/ahmedmansour5) | [Ali Afifi](https://github.com/Ali-Afifi) |
-|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------|---------------------------------------------|
-
-</div>
 
 ## License
 
