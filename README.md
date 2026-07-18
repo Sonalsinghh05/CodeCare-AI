@@ -116,6 +116,3 @@ python app.py
 See [requirements.txt](requirements.txt) for full list of dependencies.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
